@@ -3,4 +3,4 @@ This study analyzed whole-genome bisulfite sequencing (WGBS) and RNA sequencing 
 
 Website：https://www.researchgate.net/profile/Hong_Qiu10 or https://github.com/Grace-0114
 
-E-mail: qiuhong_114@163.com or qiuhong@stu.scu.edu.cn
+E-mail: qiuhong_114@163.com or 2018322040010@stu.scu.edu.cn
